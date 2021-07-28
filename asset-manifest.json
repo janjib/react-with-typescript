@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-with-typescript/static/css/main.1c0f078c.chunk.css",
+    "main.js": "/react-with-typescript/static/js/main.92de2ae5.chunk.js",
+    "main.js.map": "/react-with-typescript/static/js/main.92de2ae5.chunk.js.map",
+    "runtime-main.js": "/react-with-typescript/static/js/runtime-main.3874c7d0.js",
+    "runtime-main.js.map": "/react-with-typescript/static/js/runtime-main.3874c7d0.js.map",
+    "static/js/2.6a03a052.chunk.js": "/react-with-typescript/static/js/2.6a03a052.chunk.js",
+    "static/js/2.6a03a052.chunk.js.map": "/react-with-typescript/static/js/2.6a03a052.chunk.js.map",
+    "static/js/3.1cd089a0.chunk.js": "/react-with-typescript/static/js/3.1cd089a0.chunk.js",
+    "static/js/3.1cd089a0.chunk.js.map": "/react-with-typescript/static/js/3.1cd089a0.chunk.js.map",
+    "index.html": "/react-with-typescript/index.html",
+    "static/css/main.1c0f078c.chunk.css.map": "/react-with-typescript/static/css/main.1c0f078c.chunk.css.map",
+    "static/js/2.6a03a052.chunk.js.LICENSE.txt": "/react-with-typescript/static/js/2.6a03a052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3874c7d0.js",
+    "static/js/2.6a03a052.chunk.js",
+    "static/css/main.1c0f078c.chunk.css",
+    "static/js/main.92de2ae5.chunk.js"
+  ]
+}
